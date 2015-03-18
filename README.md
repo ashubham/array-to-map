@@ -1,12 +1,10 @@
-# array-to-map
+# array-to-map &nbsp;<a>	<img src="https://api.travis-ci.org/ashubham/array-to-map.png"/>  </a>
 
 Light utility to convert your [keys] to a {key:key} map
 
 
 ### Build Status
-  <a>
-	<img src="https://api.travis-ci.org/ashubham/array-to-map.png"/>
-  </a>
+  
 
 ### Usage
 
