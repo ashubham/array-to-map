@@ -1,0 +1,28 @@
+{
+  "name": "array-to-map",
+  "version": "1.0.0",
+  "description": "Light utility to convert your [keys] to a {key:key} map",
+  "main": "index.js",
+  "author": "Ashish Shubham <ashubham@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ashubham/array-to-map"
+  },
+  "homepage": "https://github.com/ashubham/array-to-map",
+  "keywords": [
+    "hashmap",
+    "map",
+    "array-to-map",
+    "array-to-object",
+    "object"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.2.1"
+  },
+  "dependencies": {
+  },
+  "scripts": {
+    "test": "mocha --recursive ./test"
+  }
+}
