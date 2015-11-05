@@ -1,4 +1,8 @@
-# array-to-map &nbsp;<a>	<img src="https://api.travis-ci.org/ashubham/array-to-map.png"/>  </a>
+# array-to-map
+
+<a href="https://travis-ci.org/ashubham/array-to-map">
+	<img src="https://api.travis-ci.org/ashubham/array-to-map.svg?branch=master"/>
+</a>
 
 Light utility to convert your [keys] to a {key:key} map
 
